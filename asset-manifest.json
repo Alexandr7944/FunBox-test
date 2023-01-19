@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/github.io/funBox-test/static/css/main.02b3a5a3.css",
-    "main.js": "/github.io/funBox-test/static/js/main.e89fba60.js",
-    "static/media/Pattern@2x.png": "/github.io/funBox-test/static/media/Pattern@2x.b70e3c03338dd57ce7b5.png",
-    "static/media/trebuchetms.ttf": "/github.io/funBox-test/static/media/trebuchetms.9f1aa0037c24e0f6935e.ttf",
-    "static/media/Photo.png": "/github.io/funBox-test/static/media/Photo.4dcbd4caa36b3f488563.png",
-    "static/media/Pattern.png": "/github.io/funBox-test/static/media/Pattern.55629f1155322d244d51.png",
-    "static/media/Exo2.0-Thin.otf": "/github.io/funBox-test/static/media/Exo2.0-Thin.51c257bfa8ec3e0cfb4b.otf",
-    "index.html": "/github.io/funBox-test/index.html",
-    "main.02b3a5a3.css.map": "/github.io/funBox-test/static/css/main.02b3a5a3.css.map",
-    "main.e89fba60.js.map": "/github.io/funBox-test/static/js/main.e89fba60.js.map"
+    "main.css": "/funBox-test/static/css/main.9a52352e.css",
+    "main.js": "/funBox-test/static/js/main.e89fba60.js",
+    "static/media/Pattern@2x.png": "/funBox-test/static/media/Pattern@2x.b70e3c03338dd57ce7b5.png",
+    "static/media/trebuchetms.ttf": "/funBox-test/static/media/trebuchetms.9f1aa0037c24e0f6935e.ttf",
+    "static/media/Photo.png": "/funBox-test/static/media/Photo.4dcbd4caa36b3f488563.png",
+    "static/media/Pattern.png": "/funBox-test/static/media/Pattern.55629f1155322d244d51.png",
+    "static/media/Exo2.0-Thin.otf": "/funBox-test/static/media/Exo2.0-Thin.51c257bfa8ec3e0cfb4b.otf",
+    "index.html": "/funBox-test/index.html",
+    "main.9a52352e.css.map": "/funBox-test/static/css/main.9a52352e.css.map",
+    "main.e89fba60.js.map": "/funBox-test/static/js/main.e89fba60.js.map"
   },
   "entrypoints": [
-    "static/css/main.02b3a5a3.css",
+    "static/css/main.9a52352e.css",
     "static/js/main.e89fba60.js"
   ]
 }
