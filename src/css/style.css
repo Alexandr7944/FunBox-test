@@ -121,6 +121,8 @@ body::after {
   height: 1000px;
   top: 0px;
   left: -250px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
   background: #1698D9;
   -webkit-transform: rotate(-45deg);
           transform: rotate(-45deg);
@@ -217,6 +219,8 @@ body::after {
   right: 12px;
   bottom: 13px;
   padding-top: 20px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
   background: #1698D9;
   border-radius: 50%;
   display: -webkit-box;
